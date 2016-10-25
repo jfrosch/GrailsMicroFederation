@@ -1,0 +1,4 @@
+include 'eurekaServerSpringBoot'
+include 'productCatalog'
+include 'recommendationEngine'
+include 'zuulProxySpringBoot'

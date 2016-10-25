@@ -1,0 +1,11 @@
+buildscript {
+    repositories {
+        mavenLocal()
+    }
+}
+
+apply plugin:"war"
+
+repositories {
+    mavenLocal()
+}
