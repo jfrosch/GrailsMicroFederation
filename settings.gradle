@@ -1,5 +1,5 @@
 include 'eurekaServerSpringBoot'
-include 'hystrixDashboardSpringBoot'
 include 'productCatalog'
 include 'recommendationEngine'
 include 'zuulProxySpringBoot'
+include 'hystrixDashboardSpringBoot'
