@@ -7,11 +7,13 @@ See the PDF slide deck for the accompanying presentation.
 
 1. Fork or download this repo. It includes five projects:
     a. eurekaServerSpringBoot
-    b.   hystrixDashboardSpringBoot
-    c.   productCatalog
-    d.   recommendationEngine
-    e.   zuulProxySpringBoot
+    b. hystrixDashboardSpringBoot
+    c. productCatalog
+    d. recommendationEngine
+    e. zuulProxySpringBoot
 2. Use the Gradle wrapper in each to build the projects
+    a. You can build them individually (each has its own build.gradle file)
+    b. You can build them all from the root project
 3. Launch the projects in this order:
     a. Eureka server
     b. Product Catalog
